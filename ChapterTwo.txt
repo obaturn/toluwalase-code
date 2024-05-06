@@ -1,0 +1,12 @@
+public class ChapterTwo{
+
+ public static void main(Strings[]args){
+
+System.out.print("*");
+System.out.println("***");
+System.out.println("*****");
+System.out.print("****");
+System.out.println("**");
+
+}
+}
